@@ -132,7 +132,7 @@ const sampleListings: LandListing[] = [
     type: 'residential',
     availability: 'available',
     description: 'Beautiful residential plot overlooking the lake. Serene environment perfect for peaceful living.',
-    images: ['https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg'],
+    images: ['https://www.crete-homes.com/wp-content/uploads/2024/09/LP-195_18.jpg'],
     ownerId: 'sample6',
     ownerName: 'Kavitha Nair',
     ownerPhone: '+91 43210 98765',
